@@ -1,7 +1,7 @@
 # Weather App
 
-<p><img src="./assets/Screensots/Karachi.jpg" alt="Karachi' Weather"></p>
-<p><img src="./assets/Screensots/Adamsville.jpg" alt="Adamsville's Weather"></p>
+<p><img src="./assets/Screenshots/Karachi.jpg" alt="Karachi' Weather"></p>
+<p><img src="./assets/Screenshots/Adamsville.jpg" alt="Adamsville's Weather"></p>
 
 ## Introduction
 This Flutter-based Weather App provides real-time weather updates for cities worldwide. It fetches data from a reliable weather API, displaying current temperature, conditions, and a visually appealing animation to enhance user experience.
