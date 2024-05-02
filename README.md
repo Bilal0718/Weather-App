@@ -20,9 +20,6 @@ This Flutter-based Weather App provides real-time weather updates for cities wor
 1. Clone the repository: `git clone https://github.com/Bilal0718/Weather-App`
 2. Run the app on an emulator or physical device: `flutter run`
 
-## Screenshots
-
-
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or features you'd like to add.
 
